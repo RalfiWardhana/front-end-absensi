@@ -1,3 +1,15 @@
+LOGIN ADMIN
+
+EMAIL : ralfi@mail.com
+PASSWORD : hallo123
+
+Jika ingin login sebagai user, masuk sebagai admin dahulu, lalu buat akun user, setelah itu login sebagai user sesuai email dan password yang telah anda buat. 
+
+Untuk apilikasi absensi user dan admin (monitoring) berada didalam halaman login yang sama, tetapi nanti ketika user login sebagai admin atau user
+maka tampilan,fitur dan hak akses berbeda.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
